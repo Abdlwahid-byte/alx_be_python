@@ -1,13 +1,15 @@
-# Define variables
+# basic_operations.py
+
+# Assign values to the variables
 num1 = 10
 num2 = 5
 
-# perform arithmetic operations
+# Perform arithmetic operations
 addition = num1 + num2
 subtraction = num1 - num2
 multiplication = num1 * num2
 
-# print Rsults
-print(f"Addition of {num1} and {num2} is: {addition}")
-print(f"Subtraction of {num1} and {num2} is: {subtraction}")
-print(f"Multiplication of {num1} and {num2} is: {multiplication}")
+# Print results
+print(f"Addition of {num1} and {num2} is {addition}")
+print(f"Subtraction of {num1} and {num2} is {subtraction}")
+print(f"Multiplication of {num1} and {num2} is {multiplication}")
