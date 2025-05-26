@@ -1,6 +1,6 @@
 # furure age calculator
 
-current_age = int(input("How old are you?: "))
+current_age = int(input("How old are you?"))
 
 future_years = current_age + 27
 
